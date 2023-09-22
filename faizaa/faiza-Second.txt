@@ -1,0 +1,13 @@
+this is my second repo just for pratice.
+
+
+my name is faiza shah
+i am studying in fsc
+
+git config --global user.name="faizashah"
+git config --global  user.email="shahfaiza@gmail.com
+
+
+git add *
+git commit -m "i have created a text file"
+git push
