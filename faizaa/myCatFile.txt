@@ -1,0 +1,11 @@
+this is some text in my text file.
+
+git config --global user.name="faizashah"
+git config --global user.email="shahfaiza@gmail.com"
+
+
+
+git add myCatFile.text
+git commit -m "this is a text in my file"
+git push
+
