@@ -1,0 +1,36 @@
+<style>
+  h1{
+    color:red;
+  }
+  h2{
+    color:red;
+  }
+  body{
+    background-color:#1A1A1C ;
+  }
+  p{
+    color:#FFFFFF ;
+  }
+  li{
+    color: #FFFFFF;
+  }
+  tr{
+    color: #FFFFFF;
+  }
+  .dim{
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    padding: 1rem; 
+    margin: 1rem;
+    border-radius: 1rem;
+  }
+  img{
+    border: 1px solid #FFFFFF;
+    border-radius: 90%;
+  }
+
+  
+
+
+  
+</style>
