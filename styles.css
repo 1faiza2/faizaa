@@ -1,36 +1,45 @@
 <style>
   h1{
     color:red;
+    
+    
   }
   h2{
     color:red;
+    
   }
   body{
-    background-color:#1A1A1C ;
+    background-color:white ;
   }
   p{
-    color:#FFFFFF ;
+    color:black ;
+    border: 1px solid black;
   }
   li{
-    color: #FFFFFF;
+    color: black;
   }
   tr{
-    color: #FFFFFF;
+    color: black;
   }
   .dim{
-    color: #FFFFFF;
-    border: 1px solid #FFFFFF;
+    color: black;
+    border-radius: 1px solid black;
     padding: 1rem; 
     margin: 1rem;
-    border-radius: 1rem;
+    border-radius:  1rem;
   }
   img{
-    border: 1px solid #FFFFFF;
-    border-radius: 90%;
-  }
+    border: 1px solid #:   black;
+    border-radius: 90px;}
+    
+    
+    h1, h2{
+      text-decoration: underline black;
+      color: red;;
+    }
+    h1{
+      margin: 1px;
+    }
 
-  
-
-
-  
+      
 </style>
